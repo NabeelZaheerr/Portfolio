@@ -19,9 +19,8 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
-
-const imageAltText = "desktop with books and laptop";
+import image from "../images/design-desbook pile";
+const imageAltText = "table with books";
 
 /**
  * Project list
@@ -31,28 +30,70 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Haunted Office",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "3D Model of a Pre-partition Constructed Studio's Office room in a timeline of Demise, 3D Enivronment.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_style-3dart-art-activity-7091051890129387520-yDYZ?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Parkour Game Prototype in Unity.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_csharp-csharpdeveloper-csharpprogramming-activity-7085965267821809665-4YjH?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "My Resume Site",
+    title: "Promises (A forgotten Reality)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "3D Model of the beautiful Pre-Partition St.Matthews Church in Nathia Gali, Pakistan.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_majority-minority-india-activity-7084243006458867712-eZYB?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Street Sewang (3D Model)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An incomplete story awaiting its justice. Time has passed but, People haven't changed.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_blender-3d-modeling-activity-7082343453837160448-_2gh?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "3D Model of Taj Mahal",
+    description:
+      "3D Model of the iconic Landmark of Agra called Taj Mahal in Utterpradesh, India.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_india-agra-tajmahal-activity-7080135301930573824-3-bh?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "Partition (1947)",
+    description:
+      "A story filled with trauma and distrust.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_blender-3d-modeling-activity-7071882973469392896-Tgu_?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "Avatar",
+    description:
+      "3D Model of my Avatar.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_avatar-character-3d-activity-7088447430983077889-rMum?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "Cartoonish Shoes",
+    description:
+      "3D Model of a pair of Cute and Cartoonish Shoes.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_style-3dart-art-activity-7092916200761913344-szZj?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "Character",
+    description:
+      "A Rigged 3D Character ready to be animated.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_style-3dart-art-activity-7093198187074662400-Z-7d?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "Breakfast Scene",
+    description:
+      "Lowpoly 3D Model of a Breakfast Scene Environment.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_design-scene-3d-activity-7070448798048657408-96BO?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "Badshahi Masjid",
+    description:
+      "A Lowpoly 3D Model of the iconic landmark of Lahore called Badshahi Masjid og the Mughals.",
+    url: "https://www.linkedin.com/posts/nabeel-zaheer_muqarna-mughal-architecture-activity-7069329828922990592-5OKa?utm_source=share&utm_medium=member_desktop",
   },
 ];
 
